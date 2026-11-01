@@ -10,7 +10,7 @@
 
 **Technology & Software**
 
-Based in Türkiye 🇹🇷
+Based in Turkey
 
 Interested in software development, electronics and emerging technologies.
 
@@ -20,7 +20,7 @@ Interested in software development, electronics and emerging technologies.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode,arduino,raspberrypi,linux,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=dark" />
 
 </div>
 
